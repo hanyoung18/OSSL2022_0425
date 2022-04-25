@@ -3,6 +3,5 @@
 ### member
 * Hanyoung Jeong
 * Sungbin Kim
-* Woojin Lee
-
+* seongbin2
 new comments.
