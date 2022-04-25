@@ -3,3 +3,4 @@
 ### member
 * Hanyoung Jeong
 * Sungbin Kim
+* Woojin Lee
