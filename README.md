@@ -1,5 +1,5 @@
 # OSSL2022_0425
 ## Group name
-###member
+### member
 * Hanyoung Jeong
 * Sungbin Kim
